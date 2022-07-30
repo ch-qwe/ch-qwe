@@ -27,9 +27,12 @@ I'm Cheolhong from Korea
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/></span><br/>
 
 - Backend : 
+<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Handlebars-000000?style=flat&logo=Handlebars.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JSP-000000?style=flat&logo=JSP&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/></span><br/>
 
